@@ -1,0 +1,8 @@
+{
+  "name": "NFT GenZoo",
+  "description": "NFT créé à partir d'une photo prise avec mon smartphone.",
+  "image": "ipfs://<QmT8QsaVAr5giKcoxfPHXZaVhiZGVLqTHmRRdHkZYZE4vR>",
+  "attributes": [
+    { "trait_type": "Source", "value": "Smartphone" }
+  ]
+}
